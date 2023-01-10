@@ -1,12 +1,12 @@
-# tested on **DVWA**
 
 # SlowLorisAttack_pyhon
-this script create several tcp-sessions(with multiple threads) and send HTTP-GET request to the target machine
+this script create several tcp-sessions(with multiple threads) and send HTTP-POST request to the target machine
 
 + RUN:
     + python ./driver.py
     
-    
+#Added By Kerem
+    uri argument changed to Free_Test_Data_10.5MB_PDF.pdf. You can change this in driver.py with vim editor.
     
     
 + About ./driver.py Code Variables:
